@@ -1,0 +1,4 @@
+.idea
+target
+/src/main/resources/*
+!/src/main/resources/*.example
